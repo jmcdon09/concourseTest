@@ -1,2 +1,2 @@
 # concourseTest
-learning how to use concourse
+Trying out the concourse tutorial.
